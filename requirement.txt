@@ -1,0 +1,2 @@
+ipykernel
+numpy-2.2.4
